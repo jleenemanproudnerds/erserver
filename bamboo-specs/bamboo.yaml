@@ -17,7 +17,7 @@ Maven Job:
       force-clean-build: 'false'
   - maven:
       executable: Maven 3
-      jdk: JDK 1.8
+      jdk: JDK 11
       goal: clean install
       tests: 'true'
 triggers:
