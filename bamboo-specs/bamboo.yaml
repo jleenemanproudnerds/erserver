@@ -41,7 +41,7 @@ plan-permissions:
     permissions:
       - view
   - users:
-      - hspijkerman
+      - jason
     permissions:
       - view
       - edit
